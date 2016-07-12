@@ -9,3 +9,8 @@ pokedex_GalaxyS4_sketchup - original SketchUp Model File for you to modify!
 
 pokedex_GalaxyS4_mesh - Cura generated mesh file for you to 3D print! 
 
+##license
+
+These files are released under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+https://creativecommons.org/licenses/by-sa/4.0/
