@@ -3,6 +3,15 @@
 
 https://www.sparkfun.com/news/2140
 
+##Update 7/18/2016
+
+I am humbled by the reaction to my project, it's been a lot of fun to work on. There's more to come...
+
+Good news! I'm currently working on machining the molds to resin cast pokedex cases! They will be stronger and cheaper than 3D printed cases and hopefully I'll be able to produce them in a variety of colors for a variety of models and team insignia! Keep an eye here for updates. 
+
+**If you have inquiries please direct them here and not to my sparkfun email address so that they don't go to spam:**
+###pokedex@fringeneering.com
+
 ##Update 7/14/2016
 
 Hey all, I've had requests for iPhone6S compatible cases. I'm testing a model right now! I've also had requests for more filetypes that might be compatible with more modeling software, I'll get as many up as I can. 
