@@ -3,6 +3,10 @@
 
 https://www.sparkfun.com/news/2140
 
+**Files not opening? Before you open a new issue:**
+
+Try cloning the entire repository or downloading the zipped archive. Several people have reported that downloading the raw files individually yields corrupted models. Thanks!
+
 ##Update 7/18/2016
 
 I am humbled by the reaction to my project, it's been a lot of fun to work on. There's more to come...
