@@ -9,7 +9,7 @@ Try cloning the entire repository or downloading the zipped archive. Several peo
 
 ##Update 7/20/2016
 
-I have tallied up the phone models requested at the pokedex email address and the results are in! I have dummy phones coming to me for the following models: iPhone 6, iPhone 6s, Samsung Galaxy S7, Samsung Galaxy S7 Edge, HTC One M8
+I have tallied up the phone models requested at the pokedex email address and the results are in! I have dummy phones coming to me for the following models: **iPhone 6, iPhone 6s, Samsung Galaxy S7, Samsung Galaxy S7 Edge, HTC One M8**
 
 This doesn't mean that I won't make models (or except pull requests for models) that fit other phones, but the production run of resin cast cases will likely be made to fit these phones. Because the cases are not designed to allow access to the side buttons, they will probably be widely compatible (I imagine the S7 model will fit the S4/5/6/7, for example) But keep an eye here for updates. 
 
