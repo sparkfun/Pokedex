@@ -15,9 +15,12 @@ This doesn't mean that I won't make models (or accept pull requests for models) 
 
 Also, I am not taking pre-orders or building a waiting list until the unit price is announced but please let me know if you're interested and what phone you have!
 
-I will be building a mailing list from the emails that I recieve at the address below and will send periodic updates both for people making their own and people interested in buying a pre-built unit. 
+I will be building a mailing list from the emails that I have already recieved at the address below and will send periodic updates both for people making their own and people interested in buying a pre-built unit. 
 
 Thanks again for all the support, you folks are great! 
+
+**If you would like updates from this project, you can sign up for the mailing list here:**
+###https://app.flashissue.com/subscribe/eELS28QT8Z
 
 **If you have inquiries please direct them here and not to my sparkfun email address so that they don't go to spam:**
 ###pokedex@fringeneering.com
