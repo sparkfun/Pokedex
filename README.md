@@ -7,6 +7,10 @@ https://www.sparkfun.com/news/2140
 
 Try cloning the entire repository or downloading the zipped archive. Several people have reported that downloading the raw files individually yields corrupted models. Thanks!
 
+##Update 7/22/2016
+
+I apologize for the delay in updating the 3D Models, I'm starting from scratch using a proper CAD software in order to have surface-based models for my manufacturers. This will allow me to post a wider variety of formats for those of you who are building your own as well. Stay tuned! 
+
 ##Update 7/20/2016
 
 I have tallied up the phone models requested at the pokedex email address and the results are in! I have dummy phones coming to me for the following models: **iPhone 6, iPhone 6s, Samsung Galaxy S7, Samsung Galaxy S7 Edge, HTC One M8**
