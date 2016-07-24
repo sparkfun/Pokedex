@@ -7,6 +7,14 @@ https://www.sparkfun.com/news/2140
 
 Try cloning the entire repository or downloading the zipped archive. Several people have reported that downloading the raw files individually yields corrupted models. Thanks!
 
+##Update 7/23/2016
+
+Okay! All that stuff I said yesterday about transitioning to a paid CAD software might have been nonsense! I want to try to preserve a free toolchain and while SketchUp Pro may be costly, there is (and I imagine will continue to be) a free version widely available. I believe I've found a way to convert the mesh files to IGES format for manufacturing, we'll see if these RFQs come back. 
+
+Anyway, hey! I'm trying a new hinge design and new 3D Models have been added in a bunch of fresh formats including STL which you can preview right here on GitHub!! 
+
+Also, don't forget to sign up for the newsletter below if you want bigger updates on a weekly basis (Thursdays, I think...) 
+
 ##Update 7/22/2016
 
 I apologize for the delay in updating the 3D Models, I'm starting from scratch using a proper CAD software in order to have surface-based models for my manufacturers. This will allow me to post a wider variety of formats for those of you who are building your own as well. Stay tuned! 
