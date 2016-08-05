@@ -16,6 +16,17 @@
 
 Try cloning the entire repository or downloading the zipped archive. Several people have reported that downloading the raw files individually yields corrupted models. Thanks!
 
+##Subscribe to the mailing list
+
+**If you would like updates from this project:**
+[Sign up here!](https://app.flashissue.com/subscribe/eELS28QT8Z)
+
+**Back-issues can be found here:**
+
+[7/21/16 Issue 1](https://app.flashissue.com/newsletters/2fd92ad7b8a77e4cb336d9c8b8517676475b9bff)
+[7/28/16 Issue 2](https://app.flashissue.com/newsletters/40e445324a2997733c3b17070e7b3b064cbd7b38)
+[8/4/16 Issue 3](https://app.flashissue.com/newsletters/074b53a4867c22d719021c876f0edea46ee363f2)
+
 ##Update 7/23/2016
 
 Okay! All that stuff I said yesterday about transitioning to a paid CAD software might have been nonsense! I want to try to preserve a free toolchain and while SketchUp Pro may be costly, there is (and I imagine will continue to be) a free version widely available. I believe I've found a way to convert the mesh files to IGES format for manufacturing, we'll see if these RFQs come back. 
