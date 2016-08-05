@@ -23,9 +23,9 @@ Try cloning the entire repository or downloading the zipped archive. Several peo
 
 **Back-issues can be found here:**
 
-[7/21/16 Issue 1](https://app.flashissue.com/newsletters/2fd92ad7b8a77e4cb336d9c8b8517676475b9bff)
-[7/28/16 Issue 2](https://app.flashissue.com/newsletters/40e445324a2997733c3b17070e7b3b064cbd7b38)
-[8/4/16 Issue 3](https://app.flashissue.com/newsletters/074b53a4867c22d719021c876f0edea46ee363f2)
+* [7/21/16 Issue 1](https://app.flashissue.com/newsletters/2fd92ad7b8a77e4cb336d9c8b8517676475b9bff)
+* [7/28/16 Issue 2](https://app.flashissue.com/newsletters/40e445324a2997733c3b17070e7b3b064cbd7b38)
+* [8/4/16 Issue 3](https://app.flashissue.com/newsletters/074b53a4867c22d719021c876f0edea46ee363f2)
 
 ##Update 7/23/2016
 
