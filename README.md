@@ -37,3 +37,5 @@ I am humbled by the reaction to my project, it's been a lot of fun to work on. T
 These files are released under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 https://creativecommons.org/licenses/by-sa/4.0/
+
+Pokémon is a registered trademark of Nintendo. All rights belong to Nintendo and The Pokémon Company. Pokédex GO! is a fan-driven effort and has no affiliation with Nintendo or The Pokémon Company.
