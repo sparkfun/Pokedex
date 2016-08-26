@@ -30,6 +30,7 @@ Try cloning the entire repository or downloading the zipped archive. Several peo
 * [7/28/16 Issue 2](https://app.flashissue.com/newsletters/40e445324a2997733c3b17070e7b3b064cbd7b38)
 * [8/4/16 Issue 3](https://app.flashissue.com/newsletters/074b53a4867c22d719021c876f0edea46ee363f2)
 * [8/11/16 Issue 4](https://app.flashissue.com/newsletters/01663a82b4489a700f26461fb2c2a1807c61ffe3)
+* [8/25/16 Issue 5](https://app.flashissue.com/newsletters/c3eac7a930d6a4a436042e8a7f852c7d6d6defc6)
 
 I am humbled by the reaction to my project, it's been a lot of fun to work on. There's more to come...
 
