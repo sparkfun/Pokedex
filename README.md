@@ -4,7 +4,7 @@
 
 **3D Printed Pokédex smartphone case featured on the [SparkFun Blog](https://www.sparkfun.com/news/2140)**
 
-###Also Featured On
+### Also Featured On
 
 <img src="https://cloud.githubusercontent.com/assets/1609220/17081938/579238b8-5128-11e6-9cc9-595319fd71a7.png" width="200">
 <img src="https://cloud.githubusercontent.com/assets/1609220/17081942/742fd4d0-5128-11e6-9fb9-4347f1e5f980.png" width="200">
@@ -16,7 +16,7 @@
 
 Try cloning the entire repository or downloading the zipped archive. Several people have reported that downloading the raw files individually yields corrupted models. Thanks!
 
-##license
+## license
 
 These files are released under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
